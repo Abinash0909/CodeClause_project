@@ -1,2 +1,2 @@
 # CodeClause_project
-Projects done under CodeClause internship
+Data Science Projects 
